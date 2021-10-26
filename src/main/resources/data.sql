@@ -1,0 +1,1 @@
+INSERT INTO categoria (nome, descricao) VALUES ('Alimento','Alimentos em geral');
